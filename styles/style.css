@@ -1,13 +1,13 @@
 html {
   font-size: 10px;
   font-family: 'Noto Sans SC', sans-serif;
-  background-color: #00539F;
+  background-color: #fbfcfc;
 }
 
 body {
-  width: 600px;
+  width: 700px;
   margin: 0 auto;
-  background-color: #FF9500;
+  background-color: #d2de89fb;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
@@ -17,7 +17,7 @@ h1 {
   text-align: center;
   margin: 0;
   padding: 20px 0;
-  color: #00539F;
+  color: #d0d2c2;
   text-shadow: 3px 3px 1px black;
 }
 
@@ -31,4 +31,6 @@ li {
 img {
   display: block;
   margin: 0 auto;
+  height: 500px;
+  width: 400px;
 }
